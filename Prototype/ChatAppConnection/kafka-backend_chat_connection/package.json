@@ -16,7 +16,7 @@
     "glob": "^7.1.2",
     "images-upload-middleware": "^1.1.1",
     "immutable": "^4.0.0-rc.12",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "kafka-node": "^2.5.0",
     "mongodb": "^2.2.31",
